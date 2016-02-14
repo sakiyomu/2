@@ -148,6 +148,7 @@ body{
 	bottom:			0;
 	left:			0;
 	margin:			0 0 0 0;
+	width:			100%;
 	//display:		none;
 }
 
@@ -161,6 +162,14 @@ body{
 	text-shadow:		1px 1px 1px #7C491C;
 }
 
+#🌹 .sec3 .txtArea .music{
+	margin-top:		10px;
+}
+
+#🌹 .sec3 .txtArea .music a{
+	color:			steelblue;
+	text-shadow:		1px 1px 1px #fff;
+}
 
 
 
