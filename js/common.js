@@ -40,7 +40,7 @@ $(document).ready(function(){
 		$("#btn").click(function(){
 			if ($('#txt').val() != ""){
 				var nick = $('#txt').val();
-				$(".name").html(nick + "，想你了。");
+				$(".name").html("我的宝贝" + nick);
 				$("#txt").val('');
 				$(".sec1").fadeOut(3000);
 				$(".sec2").fadeIn(3000);
